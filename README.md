@@ -9,7 +9,7 @@ I'm a technical, vivacious, organised professional looking for a data analyst po
 
 
 ## 🌐 Connect with me
-<a href="https://https://www.linkedin.com/in/vinayak-pandey-517002203/">
+<a href="https://www.linkedin.com/in/vinayak-pandey-517002203/">
 <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> 
 <a href="mailto:vinayak04.pandeyji1@@gmail.com ">
 <img src="https://img.icons8.com/color/50/000000/gmail-new.png"/>
