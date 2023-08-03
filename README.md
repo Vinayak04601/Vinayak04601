@@ -4,8 +4,7 @@
 </p>
 <img width="50%" align="right" alt="Github" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
-I'm a technical, vivacious, organised professional looking for a data analyst position to start my career.
-
+I'm a B.Tech graduate with technical skills who is outgoing, organised, and passionate. I want to deepen my technical knowledge and I want to make a long-lasting contribution to the development of the sector.
 
 
 ## 🌐 Connect with me
